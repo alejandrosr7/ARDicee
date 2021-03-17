@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				0BC8D85923F4ACED00A0A2B2 /* AppDelegate.swift */,
-				0BC8D85B23F4ACED00A0A2B2 /* art.scnassets */,
 				0BC8D85D23F4ACED00A0A2B2 /* ViewController.swift */,
 				0BC8D85F23F4ACED00A0A2B2 /* Main.storyboard */,
+				0BC8D85B23F4ACED00A0A2B2 /* art.scnassets */,
 				0BC8D86223F4ACEE00A0A2B2 /* Assets.xcassets */,
 				0BC8D86423F4ACEE00A0A2B2 /* LaunchScreen.storyboard */,
 				0BC8D86723F4ACEE00A0A2B2 /* Info.plist */,
@@ -287,6 +287,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5B2M9LEHU7;
 				INFOPLIST_FILE = ARDicee/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,6 +306,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5B2M9LEHU7;
 				INFOPLIST_FILE = ARDicee/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
